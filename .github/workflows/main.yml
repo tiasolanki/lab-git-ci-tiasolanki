@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - feature/tsolanki
 jobs:
   build:
     runs-on: ubuntu-latest
